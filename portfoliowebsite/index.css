@@ -1,0 +1,92 @@
+.bg-container {
+    background-color: #323f4b;
+
+}
+
+.page-head-paragraph {
+    color: #cced00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.page-heading {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 6px;
+}
+
+.page-image {
+    width: 100%;
+}
+
+.page-paragraph {
+    padding-top: 6px;
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.bottom-icons {
+    background-color: #1f2933;
+}
+
+.icon-container {
+    color: white;
+    padding: 10px;
+    text-align: center;
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.icon {
+    width: 65%;
+}
+
+.icon-description {
+    font-size: 22px;
+    padding-top: 8px;
+}
+
+.page-title {
+    font-size: 21px;
+    color: #cced00;
+    font-weight: 700;
+}
+
+.page-heading {
+    font-size: 37px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 700;
+}
+
+.card1 {
+    background-color: #323f4b;
+    border-radius: 8px;
+    margin-bottom: 14px;
+}
+
+.card-image {
+    width: 100%;
+}
+
+.card-title {
+    font-size: 15px;
+    color: #9aa5b1;
+}
+
+.card-heading {
+    font-size: 23px;
+    color: #ffffff;
+}
+
+.card-paragraph {
+    font-size: 21px;
+    color: #9aa5b1;
+}
+
+.more-anchor {
+    font-size: 15px;
+    color: #cced00;
+    font-weight: 700;
+}
